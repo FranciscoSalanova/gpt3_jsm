@@ -68,3 +68,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+<br />
+
+# Web available tools used in this project
+
+- https://github.com/adrianhajdin/project_modern_ui_ux_gpt3
+- https://angrytools.com/gradient/
+- https://animista.net/
+- https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Fadrianhajdin%2Fproject_modern_ui_ux_gpt3%2Ftree%2Fmain%2Fsrc%2Fassets
+- https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3?node-id=0%3A1&t=rG1DtLgWWAQOYBp0-0
