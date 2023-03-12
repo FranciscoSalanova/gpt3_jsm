@@ -100,3 +100,17 @@
     height: 100%;
 }
 
+@media screen and (max-width: 768px) {
+    .gpt3__header-content {
+        margin-right: 0;
+    }
+    
+    .gpt3__header-content h1 {
+        font-size: 36px;
+        line-height: 42px;
+    }
+
+    .gpt3__header-image {
+        display: none;
+    }
+}

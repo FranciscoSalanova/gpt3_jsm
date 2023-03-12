@@ -83,7 +83,7 @@
     }
 }
 
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 768px) {
     .gpt3__whatgpt3-feature .gpt3__features-container__feature {
         flex-direction: column;
     }
